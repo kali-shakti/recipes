@@ -1,0 +1,23 @@
+* {
+    background-color: plum;
+    border: 1px solid rgb(231, 203, 229);
+
+}
+h1 {
+    background-color: pink;
+    color:purple
+}
+h2 {
+    color: rgb(182, 131, 95);
+    background-color: rgb(235, 230, 223);
+}
+a {
+    margin: 100px;
+}
+div {
+    margin: 100px;
+}
+img {
+    height: 300px;
+    width: 300px;
+}
